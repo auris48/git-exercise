@@ -1,6 +1,14 @@
 # git-exercise
 Another git exercise
 
+
+## Branches
+
+There are two separate branches created for windows and unix systems.
+
+Branch windows contains .bat file and unix contains .sh script file. 
+
+
 ## Files
 This repository contains this readme file and two scripts; one a shell script, compatible with unix shells, and one batch script, compatible with Windows CMD and Powershell.
 
